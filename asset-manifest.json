@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Orion/static/css/main.3b3acf2e.css",
-    "main.js": "/Orion/static/js/main.40e7d7d2.js",
+    "main.css": "/Orion/static/css/main.f2ac34ca.css",
+    "main.js": "/Orion/static/js/main.83b0279f.js",
     "static/media/prototype6.png": "/Orion/static/media/prototype6.97b87e3f1443ec67c0bb.png",
     "static/media/prototype4.png": "/Orion/static/media/prototype4.e6edd4b8ddb8f63a2df4.png",
     "static/media/prototype2.png": "/Orion/static/media/prototype2.6e0d9212b985edafd359.png",
@@ -22,11 +22,11 @@
     "static/media/menu-close.svg": "/Orion/static/media/menu-close.5052b8054e48f1d32cc6.svg",
     "static/media/menu.svg": "/Orion/static/media/menu.35f880087e56488dc3f2.svg",
     "static/media/circle.svg": "/Orion/static/media/circle.7de68fc76bea2e6047af.svg",
-    "main.3b3acf2e.css.map": "/Orion/static/css/main.3b3acf2e.css.map",
-    "main.40e7d7d2.js.map": "/Orion/static/js/main.40e7d7d2.js.map"
+    "main.f2ac34ca.css.map": "/Orion/static/css/main.f2ac34ca.css.map",
+    "main.83b0279f.js.map": "/Orion/static/js/main.83b0279f.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b3acf2e.css",
-    "static/js/main.40e7d7d2.js"
+    "static/css/main.f2ac34ca.css",
+    "static/js/main.83b0279f.js"
   ]
 }
